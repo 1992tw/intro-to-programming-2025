@@ -245,7 +245,7 @@ Understanding checks will be provided when the lesson is generated.
 
 ## Subsections
 
-### Lesson 1
+### Lesson 1 BIG BIG TIME
 
 Students have access to **[V2 Scrimba - Courses](https://v2.scrimba.com/courses)** and all of their courses _(be sure you have used the link emailed to you to gain access; you will need to login to Scrimba with the email account you provided to us as the way to contact you)_. Scrimba is an interactive learning platform where students can interact with the video content code editor.  
 

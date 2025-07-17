@@ -46,7 +46,7 @@ No submission instructions provided.
 
 ## Contributors
 
-- Hanna Akhramchuk
+- undefined
 
 ---
 
