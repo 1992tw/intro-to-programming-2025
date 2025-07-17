@@ -14,21 +14,25 @@
     ]
   },
   "createdBy": {
+    "isDeleted": false,
+    "deletedAt": null,
     "_id": "6800a73454438765dcfd5e07",
     "name": "Tammam Alwafai",
+    "email": "tammam.wafai@gmail.com",
     "image": "https://avatars.githubusercontent.com/u/47179662?v=4",
-    "githubUsername": "1992tw"
+    "githubUsername": "1992tw",
+    "emailVerified": null,
+    "createdAt": "2025-04-17T07:01:08.468Z",
+    "isAdmin": true,
+    "courseCount": 108,
+    "lastLogin": "2025-07-08T18:03:49.196Z"
   },
   "contributors": [
-    {
-      "_id": "6875412897c1eb14a4924dc6",
-      "name": "Hanna Akhramchuk",
-      "image": "https://avatars.githubusercontent.com/u/75540219?v=4",
-      "githubUsername": "akhhanna20"
-    }
+    "6875412897c1eb14a4924dc6"
   ],
   "status": "pending",
   "originalGithubUrl": "https://github.com/Code-the-Dream-School/intro-to-programming-2025",
+  "remoteGithubUrl": "https://github.com/1992tw/intro-to-programming-2025",
   "createdAt": "2025-07-17T21:53:07.663Z",
-  "updatedAt": "2025-07-17T21:53:08.728Z"
+  "updatedAt": "2025-07-17T22:14:37.370Z"
 }
