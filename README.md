@@ -12,7 +12,7 @@ This course provides comprehensive learning materials for intro-to-programming-2
 
 ## Course Structure
 
-### Lesson 1: ## Scrimba
+### Lesson 1: ## Scrimba MOMBA
 ### Lesson 2: Loops
 ### Lesson 3: Lesson 3
 ### Lesson 4: Callbacks
@@ -46,9 +46,9 @@ No submission instructions provided.
 
 ## Contributors
 
-- undefined
+Course contributors will be listed here.
 
 ---
 
-*Created by: Tammam Alwafai*
-*Last updated: 7/17/2025*
+*Created by: [Tammam Alwafai](https://github.com/1992tw)*
+*Last updated: 7/27/2025*
